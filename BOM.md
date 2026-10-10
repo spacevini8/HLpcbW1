@@ -16,7 +16,6 @@
 | [SSD1306](https://it.aliexpress.com/item/1005006141235306.html) | The screen | 1 | $3.28 | $3.28 | [YouKeyi](https://it.aliexpress.com/item/1005006141235306.html) |
 | [MPU6050](https://it.aliexpress.com/item/1005010057794277.html) | Gyro & Accel | 1 | $2.50 | $2.50 | [SZHJW](https://it.aliexpress.com/item/1005010057794277.html) |
 | [GY-302 BH1750](https://it.aliexpress.com/item/1005008666221717.html) | Light Sensor | 1 | $2.18 | $2.18 | [N/A](https://it.aliexpress.com/item/1005008666221717.html) |
-| USB_C_Plug_USB2.0 | — | 1 | $0.00 | $0.00 | — |
 | [10k resistor](https://it.aliexpress.com/item/1005002489867848.html) | Resisting | 1 | $0.70 | $0.70 | [Co's Zoo](https://it.aliexpress.com/item/1005002489867848.html) |
 | [MX switches](https://it.aliexpress.com/item/1005013266330240.html) | Clicking | 3 | $1.37 | $4.11 | [N/A](https://it.aliexpress.com/item/1005013266330240.html) |
 | [SW_6x5](https://it.aliexpress.com/item/4001166999847.html) | Pushing | 2 | $1.67 | $3.34 | [TLZWLA](https://it.aliexpress.com/item/4001166999847.html) |
