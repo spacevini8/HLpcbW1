@@ -23,7 +23,7 @@
 | [ESP32-C6-DevKitC-1](https://it.aliexpress.com/item/1005012272916136.html) | everything | 1 | $6.85 | $6.85 | [Shop1105406148 Store](https://it.aliexpress.com/item/1005012272916136.html) |
 | [AM2302](https://it.aliexpress.com/item/1005008592678897.html) | Environment sensor | 1 | $3.34 | $3.34 | [TZT](https://it.aliexpress.com/item/1005008592678897.html) |
 | **Parts subtotal** | — | — | — | **$26.58** | — |
-| **Tax & shipping** | — | — | — | **$45.85** | — |
-| **Total** | — | — | — | **$72.43** | — |
+| **Tax & shipping** | — | — | — | **$19.18** | — |
+| **Total** | — | — | — | **$45.76** | — |
 
-**$42.43 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$15.76 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
