@@ -6,7 +6,7 @@
 "P1","1","USB_C_Plug_USB2.0","","","","Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
 "R1","1","10k","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",""
 "SW1,SW2,SW3","3","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"SW4,SW5","2","SW_Omron_B3FS","","","","Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP","https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
+"SW4,SW5","2","SW_Push","","","","Button_Switch_THT:SW_PUSH_6mm_H5mm",""
 "SW7","1","RotaryEncoder_Switch","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
 "U1","1","ESP32-C6-DevKitC-1","","","","PCM_Espressif:ESP32-C6-DevKitC-1","https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/user_guide.html"
 "U2","1","AM2302","","","","Sensor:ASAIR_AM2302_P2.54mm_Vertical","http://akizukidenshi.com/download/ds/aosong/AM2302.pdf"
